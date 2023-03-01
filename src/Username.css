@@ -1,0 +1,41 @@
+.grid-container{
+    display: grid;
+    background-color:red;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows:1fr 0.5fr 0.5fr ;
+    height: 100vh;
+    width: 100vw;
+}
+.item1{
+  background-color:red;
+  border: 2px solid black;
+   
+}
+.item2{
+background-color:blue;
+border: black;
+}
+.item3{
+background-color:greenyellow;
+/* height: 25vh; */
+border: black;
+}
+.item4{
+background-color:orange;
+/* height: 25vh; */
+border: black;
+}
+.item5{
+background-color:pink;
+/* height: 25vh; */
+border: black;
+}
+.item6{
+background-color:aquamarine;
+/* height: 25vh; */
+border: black;
+}
+.imageh{
+    height: 33vh;
+    width:25vw
+}
