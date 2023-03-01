@@ -30,7 +30,7 @@ export default function App() {
     <Router>
       <nav>
     <ul>
-      this is going well
+      this is going well and i edited it on github
       <li><Link to="/">Home</Link></li>
       <li><Link to="/dashboard">About</Link></li>
     </ul>
